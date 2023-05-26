@@ -1,1 +1,1 @@
-My git directory
+## My updated git directory
